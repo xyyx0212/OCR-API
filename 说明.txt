@@ -1,0 +1,8 @@
+发布者：薛原
+执行者：薛原 王玉婷
+说明：
+tesseract 安装及使用
+https://blog.csdn.net/showgea/article/details/82656515
+
+训练tesseract的jTessBoxEditor
+https://www.cnblogs.com/zhongtang/p/5555950.html
